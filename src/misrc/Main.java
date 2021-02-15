@@ -12,7 +12,7 @@ public class Main {
     }
      
     public void nachoresta() {
-     
+     System.out.println("Aquí va la resta del programa colaborativo;");
         
     }
      
