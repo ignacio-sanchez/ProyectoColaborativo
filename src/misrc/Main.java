@@ -7,7 +7,7 @@ public class Main {
             
     }
      public void sergiosuma() {
-         
+         System.out.println("Ya acabe la suma wacho");
          
     }
      
